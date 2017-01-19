@@ -9,12 +9,9 @@ public class dddd {
 <<<<<<< HEAD
 		System.out.println("revert2");
 <<<<<<< HEAD
-<<<<<<< HEAD
 		System.out.println("revert3");
 =======
 >>>>>>> parent of 7978e06... revert2
-=======
->>>>>>> parent of 236a3c0... revert3
 =======
 >>>>>>> parent of 236a3c0... revert3
 	}
