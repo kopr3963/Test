@@ -5,5 +5,6 @@ public class dddd {
 		
 		System.out.println("commit2");
 		System.out.println("commit3");
+		System.out.println("revert1");
 	}
 }
