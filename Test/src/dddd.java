@@ -7,6 +7,5 @@ public class dddd {
 		System.out.println("commit3");
 		System.out.println("revert1");
 		System.out.println("revert2");
-		System.out.println("revert3");
 	}
 }
